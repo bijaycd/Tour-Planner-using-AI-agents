@@ -1,0 +1,11 @@
+fastapi
+pydantic
+python-dotenv
+neo4j
+requests
+streamlit
+folium
+streamlit-folium
+ollama
+opencage
+uvicorn
